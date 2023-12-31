@@ -1,0 +1,7 @@
+.vscode/
+*swp
+*/*swp
+
+# Lin specific stuff
+src/lin.db
+
